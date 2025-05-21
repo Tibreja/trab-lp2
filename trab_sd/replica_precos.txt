@@ -1,0 +1,7 @@
+PETR4,Petrobras,2024-03-15,Compra,10.50,10
+VALE3,Vale,2024-04-20,Venda,12.00,5
+WEG3,WEG,2024-05-01,Compra,25.75,2
+Banco do Brasil,BBAS3,29,40-0,34
+Bradesco,ONBBDC3,13,40-0,74
+Bradesco,PNBBDC4,15,35-0,65
+Magazine Luiza,MGLU3,3,99+0,25
